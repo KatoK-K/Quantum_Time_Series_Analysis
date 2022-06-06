@@ -1,2 +1,3 @@
 # Quantum_Time_Series_Analysis
-Quantum/Pytorch/Numpy
+
+量子時系列解析を学習していきます．
